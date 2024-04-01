@@ -1,0 +1,32 @@
+[
+	{
+		"name": "person1",
+		"cgpa": 8.8,
+		"weight": 57,
+		"height": 180
+	},
+	{
+		"name": "person2",
+		"cgpa": 9.8,
+		"weight": 61,
+		"height": 165
+	},
+	{
+		"name": "person3",
+		"cgpa": 9.7,
+		"weight": 75,
+		"height": 181
+	},
+	{
+		"name": "person4",
+		"cgpa": 8.3,
+		"weight": 59,
+		"height": 175
+	},
+	{
+		"name": "person5",
+		"cgpa": 8.2,
+		"weight": 56,
+		"height": 173
+	}
+]

@@ -1,0 +1,17 @@
+.labelElement {
+	padding: 5px 10px;
+	margin: 8px 0;
+	font-size: 0.8em;
+	border-radius: 4px;
+	transition: all 0.25s;
+	cursor: pointer;
+	user-select: none;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	background-color: rgb(231, 238, 235, 0.6);
+}
+
+.labelElement:hover {
+	background-color: rgb(231, 238, 235, 1);
+}
